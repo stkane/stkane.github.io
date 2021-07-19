@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[678],{704:function(e,t,r){"use strict";r.r(t),r.d(t,{default:function(){return l}});var n=r(294);function l(){return n.createElement("div",null,"Stephen's website")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-b74acc4d1e7075b5ee95.js.map
